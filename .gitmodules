@@ -1,0 +1,3 @@
+[submodule "themes/knowing-less"]
+	path = themes/knowing-less
+	url = https://github.com/LGiki/hugo-theme-knowing-less

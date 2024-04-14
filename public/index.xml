@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Knowing Less]]></title>
+    <link>http://localhost:1313/</link>
+    <description>
+      <![CDATA[A simple HUGO theme for podcasts]]>
+    </description>
+    <generator>Hugo 0.124.1 with theme Knowing Less</generator>
+    <language>en</language>
+    
+    <itunes:author><![CDATA[SkippySteve]]></itunes:author>
+    <itunes:subtitle><![CDATA[Knowing Less]]></itunes:subtitle>
+    <itunes:summary><![CDATA[A simple HUGO theme for podcasts]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name><![CDATA[SkippySteve]]></itunes:name>
+      <itunes:email><![CDATA[steve@aimingupward.com]]></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://picsum.photos/500/500"/>
+    <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Personal Journals"/>
+      </itunes:category><itunes:category text="Society &amp; Culture">
+        <itunes:category text="Relationships"/>
+      </itunes:category><itunes:category text="Society &amp; Culture">
+        <itunes:category text="Documentary"/>
+      </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Sun, 14 Apr 2024 18:22:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Episode 3]]></title>
+      <itunes:author><![CDATA[SkippySteve]]></itunes:author>
+      <itunes:subtitle><![CDATA[Episode 3]]></itunes:subtitle><itunes:image href="/icons/cosmos.svg"></itunes:image>
+      <enclosure
+        url="https://aimingupward.com/default.mp3_ywr3ahjkcgo_54ac620e957fff3cfbd04619acc9d2db_91208779.mp3"
+        type=""
+        length=""
+      />
+      <link>http://localhost:1313/episode/episode-3/</link>
+      <itunes:duration>12:34</itunes:duration><pubDate>Sun, 14 Apr 2024 18:22:36 -0400</pubDate>
+      <guid>http://localhost:1313/episode/episode-3/</guid>
+      <description>
+        <![CDATA[<h1 id="this-is-episode-3">This is Episode 3</h1><p>Hello World!</p>]]>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Episode 2]]></title>
+      <itunes:author><![CDATA[SkippySteve]]></itunes:author>
+      <itunes:subtitle><![CDATA[Episode 2]]></itunes:subtitle><itunes:image href="/icons/cosmos.svg"></itunes:image>
+      <enclosure
+        url="https://aimingupward.com/default.mp3_ywr3ahjkcgo_0dd99e789df80a2ac4cc9ba92a8910b9_101329013.mp3"
+        type=""
+        length=""
+      />
+      <link>http://localhost:1313/episode/episode-2/</link>
+      <itunes:duration>12:34</itunes:duration><pubDate>Sun, 14 Apr 2024 18:22:32 -0400</pubDate>
+      <guid>http://localhost:1313/episode/episode-2/</guid>
+      <description>
+        <![CDATA[<h1 id="this-is-episode-2">This is Episode 2</h1><p>Hello World!</p>]]>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Episode 1]]></title>
+      <itunes:author><![CDATA[SkippySteve]]></itunes:author>
+      <itunes:subtitle><![CDATA[Episode 1]]></itunes:subtitle><itunes:image href="/icons/cosmos.svg"></itunes:image>
+      <enclosure
+        url="https://aimingupward.com/default.mp3_ywr3ahjkcgo_04b9d0ea7752eb655096a1cd899de73f_99368382.mp3"
+        type=""
+        length=""
+      />
+      <link>http://localhost:1313/episode/episode-1/</link>
+      <itunes:duration>12:34</itunes:duration><pubDate>Sun, 14 Apr 2024 18:17:03 -0400</pubDate>
+      <guid>http://localhost:1313/episode/episode-1/</guid>
+      <description>
+        <![CDATA[<h1 id="this-is-episode-1">This is Episode 1</h1><p>Hello World!</p>]]>
+      </description>
+    </item>
+  </channel>
+</rss>
