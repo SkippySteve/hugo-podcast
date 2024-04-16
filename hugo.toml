@@ -45,7 +45,7 @@ copyright = ""            # Default value is author.name
   debug = false
 
   # Podcast image URL
-  podcastImage = "https://picsum.photos/500/500"
+  podcastImage = "/rss-logo-png-transparent.png"
 
   # If you leave it blank, will generate RSS Feed automatically by episodes you posted, or you can specify your podcast RSS feed URL
   podcastRSS = ""
