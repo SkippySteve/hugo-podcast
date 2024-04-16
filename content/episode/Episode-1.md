@@ -4,7 +4,7 @@ date = 2024-04-14T18:17:03-04:00
 draft = false
 
 coverImage = "/icons/cosmos.svg"
-enclosureURL = "https://f005.backblazeb2.com/file/skippysteve-podcast/default.mp3_ywr3ahjkcgo_04b9d0ea7752eb655096a1cd899de73f_99368382.mp3"
+enclosureURL = "https://aimingupward.com/default.mp3_ywr3ahjkcgo_04b9d0ea7752eb655096a1cd899de73f_99368382.mp3"
 enclosureType = "mp3"
 enclosureLength = "1:45:24"
 author = "Steve"
