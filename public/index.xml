@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title><![CDATA[Knowing Less]]></title>
-    <link>http://localhost:1313/</link>
+    <link>https://podcast.aimingupward.com/</link>
     <description>
       <![CDATA[A simple HUGO theme for podcasts]]>
     </description>
@@ -26,7 +26,7 @@
       </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <lastBuildDate>Sun, 14 Apr 2024 18:22:36 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://podcast.aimingupward.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[Episode 3]]></title>
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
@@ -36,9 +36,9 @@
         type="mp3"
         length="1:34:54"
       />
-      <link>http://localhost:1313/episode/episode-3/</link>
+      <link>https://podcast.aimingupward.com/episode/episode-3/</link>
       <itunes:duration>1:34:54</itunes:duration><pubDate>Sun, 14 Apr 2024 18:22:36 -0400</pubDate>
-      <guid>http://localhost:1313/episode/episode-3/</guid>
+      <guid>https://podcast.aimingupward.com/episode/episode-3/</guid>
       <description>
         <![CDATA[<h1 id="this-is-episode-3">This is Episode 3</h1><p>Hello World!</p>]]>
       </description>
@@ -52,9 +52,9 @@
         type="mp3"
         length="1:43:26"
       />
-      <link>http://localhost:1313/episode/episode-2/</link>
+      <link>https://podcast.aimingupward.com/episode/episode-2/</link>
       <itunes:duration>1:43:26</itunes:duration><pubDate>Sun, 14 Apr 2024 18:22:32 -0400</pubDate>
-      <guid>http://localhost:1313/episode/episode-2/</guid>
+      <guid>https://podcast.aimingupward.com/episode/episode-2/</guid>
       <description>
         <![CDATA[<h1 id="this-is-episode-2">This is Episode 2</h1><p>Hello World!</p>]]>
       </description>
@@ -68,9 +68,9 @@
         type="mp3"
         length="1:45:24"
       />
-      <link>http://localhost:1313/episode/episode-1/</link>
+      <link>https://podcast.aimingupward.com/episode/episode-1/</link>
       <itunes:duration>1:45:24</itunes:duration><pubDate>Sun, 14 Apr 2024 18:17:03 -0400</pubDate>
-      <guid>http://localhost:1313/episode/episode-1/</guid>
+      <guid>https://podcast.aimingupward.com/episode/episode-1/</guid>
       <description>
         <![CDATA[<h1 id="this-is-episode-1">This is Episode 1</h1><p>Hello World!</p>]]>
       </description>
