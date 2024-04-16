@@ -4,7 +4,7 @@ date = 2024-04-14T18:22:36-04:00
 draft = false
 
 coverImage = "/rss-logo-png-transparent.png"
-enclosureURL = "https://aimingupward.com/default.mp3_ywr3ahjkcgo_54ac620e957fff3cfbd04619acc9d2db_91208779.mp3"
+enclosureURL = "https://aimingupward.com/Episode%203.mp3"
 enclosureType = "mp3"
 enclosureLength = "1:34:54"
 author = "Steve"
