@@ -30,7 +30,7 @@
     <item>
       <title><![CDATA[Episode 3]]></title>
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
-      <itunes:subtitle><![CDATA[Episode 3]]></itunes:subtitle><itunes:image href="/icons/cosmos.svg"></itunes:image>
+      <itunes:subtitle><![CDATA[Episode 3]]></itunes:subtitle><itunes:image href="/rss-logo-png-transparent.png"></itunes:image>
       <enclosure
         url="https://aimingupward.com/default.mp3_ywr3ahjkcgo_54ac620e957fff3cfbd04619acc9d2db_91208779.mp3"
         type="mp3"
@@ -46,7 +46,7 @@
     <item>
       <title><![CDATA[Episode 2]]></title>
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
-      <itunes:subtitle><![CDATA[Episode 2]]></itunes:subtitle><itunes:image href="/icons/cosmos.svg"></itunes:image>
+      <itunes:subtitle><![CDATA[Episode 2]]></itunes:subtitle><itunes:image href="/rss-logo-png-transparent.png"></itunes:image>
       <enclosure
         url="https://aimingupward.com/default.mp3_ywr3ahjkcgo_0dd99e789df80a2ac4cc9ba92a8910b9_101329013.mp3"
         type="mp3"
@@ -62,7 +62,7 @@
     <item>
       <title><![CDATA[Episode 1]]></title>
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
-      <itunes:subtitle><![CDATA[Episode 1]]></itunes:subtitle><itunes:image href="/icons/cosmos.svg"></itunes:image>
+      <itunes:subtitle><![CDATA[Episode 1]]></itunes:subtitle><itunes:image href="/rss-logo-png-transparent.png"></itunes:image>
       <enclosure
         url="https://aimingupward.com/default.mp3_ywr3ahjkcgo_04b9d0ea7752eb655096a1cd899de73f_99368382.mp3"
         type="mp3"

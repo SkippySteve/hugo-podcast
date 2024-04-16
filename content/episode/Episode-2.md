@@ -3,7 +3,7 @@ title = 'Episode 2'
 date = 2024-04-14T18:22:32-04:00
 draft = false
 
-coverImage = "/icons/cosmos.svg"
+coverImage = "/rss-logo-png-transparent.png"
 enclosureURL = "https://aimingupward.com/default.mp3_ywr3ahjkcgo_0dd99e789df80a2ac4cc9ba92a8910b9_101329013.mp3"
 enclosureType = "mp3"
 enclosureLength = "1:43:26"
