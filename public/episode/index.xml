@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Episodes on Knowing Less</title>
-    <link>https://podcast.aimingupward.com/episode/</link>
+    <link>http://localhost:1313/episode/</link>
     <description>Recent content in Episodes on Knowing Less</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>steve@aimingupward.com (SkippySteve)</managingEditor>
     <webMaster>steve@aimingupward.com (SkippySteve)</webMaster>
     <lastBuildDate>Sun, 14 Apr 2024 18:22:36 -0400</lastBuildDate>
-    <atom:link href="https://podcast.aimingupward.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/episode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Episode 3</title>
-      <link>https://podcast.aimingupward.com/episode/episode-3/</link>
+      <link>http://localhost:1313/episode/episode-3/</link>
       <pubDate>Sun, 14 Apr 2024 18:22:36 -0400</pubDate><author>steve@aimingupward.com (SkippySteve)</author>
-      <guid>https://podcast.aimingupward.com/episode/episode-3/</guid>
+      <guid>http://localhost:1313/episode/episode-3/</guid>
       <description>This is Episode 3 Hello World!</description>
     </item>
     <item>
       <title>Episode 2</title>
-      <link>https://podcast.aimingupward.com/episode/episode-2/</link>
+      <link>http://localhost:1313/episode/episode-2/</link>
       <pubDate>Sun, 14 Apr 2024 18:22:32 -0400</pubDate><author>steve@aimingupward.com (SkippySteve)</author>
-      <guid>https://podcast.aimingupward.com/episode/episode-2/</guid>
+      <guid>http://localhost:1313/episode/episode-2/</guid>
       <description>This is Episode 2 Hello World!</description>
     </item>
     <item>
       <title>Episode 1</title>
-      <link>https://podcast.aimingupward.com/episode/episode-1/</link>
+      <link>http://localhost:1313/episode/episode-1/</link>
       <pubDate>Sun, 14 Apr 2024 18:17:03 -0400</pubDate><author>steve@aimingupward.com (SkippySteve)</author>
-      <guid>https://podcast.aimingupward.com/episode/episode-1/</guid>
+      <guid>http://localhost:1313/episode/episode-1/</guid>
       <description>This is Episode 1 Hello World!</description>
     </item>
   </channel>
