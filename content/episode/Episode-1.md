@@ -4,7 +4,6 @@ date = 2024-04-14T18:17:03-04:00
 draft = false
 
 summary: "Episode 1 Summary"
-description: "<a href='https://aimingupward.com'>Aimingupward Dot Com</a>"
 coverImage = "https://podcast.aimingupward.com/puppy.jpg"
 enclosureURL = "https://aimingupward.com/Episode%201.mp3"
 enclosureType = "audio/mpeg"
