@@ -45,7 +45,7 @@ copyright = ""            # Default value is author.name
   debug = false
 
   # Podcast image URL
-  podcastImage = "/rss-logo-png-transparent.png"
+  podcastImage = "https://podcast.aimingupward.com/puppy.jpg"
 
   # If you leave it blank, will generate RSS Feed automatically by episodes you posted, or you can specify your podcast RSS feed URL
   podcastRSS = ""
