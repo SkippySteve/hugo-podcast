@@ -54,7 +54,7 @@ copyright = ""            # Default value is author.name
   since = "2024"
 
   # Description will displayed in the sidebar
-  description = "A simple HUGO theme for podcasts"
+  description = "No Cost Podcast (up to 10GB audio). <a href="http://www.aimingupward.com">Aiming Upward!</a>"
   keywords = ["Hugo", "theme", "podcast"]
 
   # Post types that will displayed on the home page
