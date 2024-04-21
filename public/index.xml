@@ -6,7 +6,7 @@
     <description>
       <![CDATA[A simple HUGO theme for podcasts]]>
     </description>
-    <generator>Hugo 0.124.1 with theme Knowing Less</generator>
+    <generator>Hugo 0.125.1 with theme Knowing Less</generator>
     <language>en</language>
     
     <itunes:author><![CDATA[SkippySteve]]></itunes:author>
@@ -30,7 +30,7 @@
     <item>
       <title><![CDATA[Episode 3]]></title>
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
-      <itunes:subtitle><![CDATA[Episode 3]]></itunes:subtitle><itunes:image href="/rss-logo-png-transparent.png"></itunes:image>
+      <itunes:subtitle><![CDATA[Episode 3]]></itunes:subtitle><itunes:image href="https://podcast.aimingupward.com/puppy.jpg"></itunes:image>
       <enclosure
         url="https://aimingupward.com/Episode%203.mp3"
         type="mp3"
@@ -46,7 +46,7 @@
     <item>
       <title><![CDATA[Episode 2]]></title>
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
-      <itunes:subtitle><![CDATA[Episode 2]]></itunes:subtitle><itunes:image href="/rss-logo-png-transparent.png"></itunes:image>
+      <itunes:subtitle><![CDATA[Episode 2]]></itunes:subtitle><itunes:image href="https://podcast.aimingupward.com/puppy.jpg"></itunes:image>
       <enclosure
         url="https://aimingupward.com/Episode%202.mp3"
         type="mp3"
@@ -62,7 +62,7 @@
     <item>
       <title><![CDATA[Episode 1]]></title>
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
-      <itunes:subtitle><![CDATA[Episode 1]]></itunes:subtitle><itunes:image href="/rss-logo-png-transparent.png"></itunes:image>
+      <itunes:subtitle><![CDATA[Episode 1]]></itunes:subtitle><itunes:image href="https://podcast.aimingupward.com/puppy.jpg"></itunes:image>
       <enclosure
         url="https://aimingupward.com/Episode%201.mp3"
         type="mp3"

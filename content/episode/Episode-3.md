@@ -3,7 +3,7 @@ title = 'Episode 3'
 date = 2024-04-14T18:22:36-04:00
 draft = false
 
-coverImage = "/puppy.jpg"
+coverImage = "https://podcast.aimingupward.com/puppy.jpg"
 enclosureURL = "https://aimingupward.com/Episode%203.mp3"
 enclosureType = "mp3"
 enclosureLength = "1:34:54"
