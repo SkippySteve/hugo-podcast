@@ -32,8 +32,8 @@
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
       <itunes:subtitle><![CDATA[Episode 3]]></itunes:subtitle><itunes:image href="https://podcast.aimingupward.com/puppy.jpg"></itunes:image>
       <enclosure
-        url="https://aimingupward.com/Episode%203.mp3"
-        type="mp3"
+        url="https://aimingupward.com/Episode$203.mp3"
+        type="audio/mpeg"
         length="1:34:54"
       />
       <link>https://podcast.aimingupward.com/episode/episode-3/</link>
@@ -48,8 +48,8 @@
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
       <itunes:subtitle><![CDATA[Episode 2]]></itunes:subtitle><itunes:image href="https://podcast.aimingupward.com/puppy.jpg"></itunes:image>
       <enclosure
-        url="https://aimingupward.com/Episode%202.mp3"
-        type="mp3"
+        url="https://aimingupward.com/Episode$202.mp3"
+        type="audio/mpeg"
         length="1:43:26"
       />
       <link>https://podcast.aimingupward.com/episode/episode-2/</link>
@@ -64,8 +64,8 @@
       <itunes:author><![CDATA[SkippySteve]]></itunes:author>
       <itunes:subtitle><![CDATA[Episode 1]]></itunes:subtitle><itunes:image href="https://podcast.aimingupward.com/puppy.jpg"></itunes:image>
       <enclosure
-        url="https://aimingupward.com/Episode%201.mp3"
-        type="mp3"
+        url="https://aimingupward.com/Episode$201.mp3"
+        type="audio/mpeg"
         length="1:45:24"
       />
       <link>https://podcast.aimingupward.com/episode/episode-1/</link>

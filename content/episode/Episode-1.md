@@ -4,8 +4,8 @@ date = 2024-04-14T18:17:03-04:00
 draft = false
 
 coverImage = "https://podcast.aimingupward.com/puppy.jpg"
-enclosureURL = "https://aimingupward.com/Episode%201.mp3"
-enclosureType = "mp3"
+enclosureURL = "https://aimingupward.com/Episode$201.mp3"
+enclosureType = "audio/mpeg"
 enclosureLength = "1:45:24"
 author = "Steve"
 # The duration can be either string or integer (in seconds), for example:
