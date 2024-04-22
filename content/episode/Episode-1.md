@@ -5,7 +5,7 @@ draft = false
 
 summary = "Episode 1 Summary"
 coverImage = "https://podcast.aimingupward.com/puppy.jpg"
-enclosureURL = "https://aimingupward.com/Episode%201.mp3"
+enclosureURL = "https://podcast-storage.aimingupward.com/Episode%201.mp3"
 enclosureType = "audio/mpeg"
 enclosureLength = "1:45:24"
 author = "Steve"
