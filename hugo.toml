@@ -183,7 +183,7 @@ copyright = ""            # Default value is author.name
       leftAngleQuote = '&apos;'
       leftDoubleQuote = '&quot;'
       leftSingleQuote = '&apos;'
-      rightAngleQuote = '&apos;
+      rightAngleQuote = '&apos;'
       rightDoubleQuote = '&quot;'
       rightSingleQuote = '&apos;'
 
