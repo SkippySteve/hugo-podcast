@@ -19,4 +19,10 @@ hiddenFromRSS = false
 # This is Episode 1
 
 Hello World!
+<br>
 <a href='http://www.aimingupward.com'>Aiming Upward!</a>
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Energy Drinks</li>
+</ul>

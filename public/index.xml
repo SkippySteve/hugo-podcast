@@ -72,7 +72,7 @@
       <itunes:duration>1:45:24</itunes:duration><pubDate>Sun, 14 Apr 2024 18:17:03 -0400</pubDate>
       <guid>https://podcast.aimingupward.com/episode/episode-1/</guid>
       <description>
-        <![CDATA[<h1 id="this-is-episode-1">This is Episode 1</h1><p>Hello World!<a href='http://www.aimingupward.com'>Aiming Upward!</a></p>]]>
+        <![CDATA[<h1 id="this-is-episode-1">This is Episode 1</h1><p>Hello World!<br><a href='http://www.aimingupward.com'>Aiming Upward!</a></p><ul>    <li>Coffee</li>    <li>Tea</li>    <li>Energy Drinks</li></ul>]]>
       </description>
     </item>
   </channel>
