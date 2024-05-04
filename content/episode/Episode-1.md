@@ -20,7 +20,12 @@ hiddenFromRSS = false
 
 Hello World!
 <br>
-<a href='http://www.aimingupward.com'>Aiming Upward!</a>
+
+
+http://www.aimingupward.com
+
+
+
 <ul>
     <li>Coffee</li>
     <li>Tea</li>
