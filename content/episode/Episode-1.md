@@ -30,12 +30,3 @@ Hello World!
 'single quotes'
 
 "double quotes"
-
-testing chars:
-&
-< 
->
-`
-©
-℗
-™
