@@ -26,3 +26,7 @@ Hello World!
     <li>Tea</li>
     <li>Energy Drinks</li>
 </ul>
+
+'single quotes'
+
+"double quotes"
